@@ -1,0 +1,8 @@
+Type: SRV
+Service: _minecraft
+Protocol: _tcp
+Name: myserver
+Priority: 0
+Weight: 5
+Port: 3396
+Target: 51.195.89.101
